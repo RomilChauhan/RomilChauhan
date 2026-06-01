@@ -112,17 +112,6 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `$ ./github-stats`
-
-<div align="center">
-
-![Romil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomilChauhan&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00FF94&text_color=dde4ed&bg_color=0d1117&count_private=true&cache_seconds=3600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomilChauhan&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=dde4ed&bg_color=0d1117&langs_count=8&cache_seconds=3600)
-
-</div>
 
 ---
 
